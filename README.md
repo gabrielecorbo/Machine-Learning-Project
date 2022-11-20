@@ -3,7 +3,7 @@ This project was realized for the Machine Learning course, held at TU Delft, A.Y
 
 Team members
 - Gabriele Corbo ([GitHub](https://github.com/gabrielecorbo), [Linkedin](https://www.linkedin.com/in/gabriele-corbo-657982218/))
-- Giacomo Mussita
+- Giacomo Mussita ([GitHub](https://github.com/GiacomoMussita), [Linkedin](https://www.linkedin.com/in/giacomo-mussita-86a137257/))
 
 ## Description
 
