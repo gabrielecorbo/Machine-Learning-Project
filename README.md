@@ -1,4 +1,4 @@
-# Machine Learning Project
+# Machine Learning model to detect malfunctions
 This project was realized for the Machine Learning course, held at TU Delft, A.Y. 2022/2023
 
 Team members
